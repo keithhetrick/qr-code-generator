@@ -1,6 +1,6 @@
 # QR Code Generator
 
-### Built QR Code & Tailwind CSS
+### Built with Javascript, QR Code CDN & Tailwind CSS
 
 [Demo](https://keithhetrick.github.io/qr-code-generator/)
 
